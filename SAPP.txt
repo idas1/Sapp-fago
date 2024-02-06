@@ -1,0 +1,6 @@
+SAPP:
+
+- font: BT Bean Sans
+- container : padding:0 135px
+- font size: 40,24,22,18,16,15,14
+- button: xem tat ca
